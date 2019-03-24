@@ -14,7 +14,7 @@ for numberx in range(1,100):
     print(toPrint)
     
     
-"
+"""
 #Result:
 1
 2
@@ -115,4 +115,4 @@ Fizz
 97
 98
 Fizz
-"
+"""
